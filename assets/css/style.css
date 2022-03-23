@@ -1,0 +1,147 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #ffe2fa;
+}
+
+.header {
+    padding: 20px;
+    width: max-content;
+    position: fixed;
+    font-family: Proxima Nova;
+    display: inline;
+    background-color: #fbd9ff; 
+    color: #522323;
+}
+
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: Proxima Nova;
+    font-size: 20px;
+}
+
+.header div ul {
+    list-style-type: none;
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/lash1.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 100%;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: Proxima Nova;
+    background-color: #2589bd;
+}
+
+
+.about-us {
+    margin-bottom: 20px;
+    padding: 20px;
+    height: 300px;
+    font-family: Proxima Nova;
+    background-color: #ffffff;
+    color: #030303;
+    text-align: center;
+}
+
+.services {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: Proxima Nova;
+    background-color: #ffffff;
+    color: #030303;
+}
+
+.contact-us {
+    margin-bottom: 20px;
+    margin-right: 0px;
+    padding: 50px;
+    height: 300px;
+    font-family: Proxima Nova;
+    background-color: #ffffff;
+    color: #030303;
+}
+
+.about-us img {
+    max-height: 200px;
+}
+
+.about-us img {
+    max-height: 200px;
+}
+
+.services img {
+    max-height: 200px;
+}
+
+.services h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    text-align: center;
+}
+
+.contact-us h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    text-align: center;
+}
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: Proxima Nova;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
