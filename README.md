@@ -55,3 +55,6 @@ In this mini-project, we will build a landing page using HTML and CSS.
 - Added disclaimer, instructions and pricing info on the Calendly page to inform users of important messages.
 
 
+## Screenshot of the website
+
+![My Image](assets/images/lpage1.png)
