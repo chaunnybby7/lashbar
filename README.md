@@ -60,7 +60,7 @@ Typography is extremely important for me and I have also used a chic font named 
 ## Screenshot of the website 
 
 ![My Image](assets/images/lpage1.png)
-
+![](https://media.giphy.com/media/Jx0VtPTx7g3vXpoG6p/giphy.gif)
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -79,3 +79,4 @@ Typography is extremely important for me and I have also used a chic font named 
 - [Link to Portfolio Site](https://github.com/chaunnybby7/lashbar)
 - [Link to Github](https://github.com/chaunnybby7)
 - [Link to LinkedIn](https://www.linkedin.com/in/chauntelleong)
+
