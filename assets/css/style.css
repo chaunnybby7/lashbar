@@ -1,0 +1,224 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #fff;
+}
+
+header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 2.25rem;
+        background-color: var(--bgColor0);
+        color: rgb(77, 42, 42);
+        text-transform: uppercase;
+        font-family: CentraNo1-Book,system-ui,Segoe UI,Roboto,Arial,sans-serif;
+        font-size: .98rem;
+        line-height: 5;
+        padding: 50px;
+        background-color: #fff;
+        letter-spacing: .5px;
+        z-index: 14;
+        position: relative;
+        transition: color .2s ease-in-out,background-color .2s ease-in-out;
+      }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 300px;
+    color: rgb(63, 34, 34);
+  }
+  
+  nav a {
+    color: rgb(63, 34, 34);
+    font-family: 'Abel';
+    font-weight: bold;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 10px;
+  }
+  
+  nav a:hover {
+    color: rgb(63, 34, 34);
+  }
+  
+  li a:link {
+    color: rgb(63, 34, 34);
+  }
+  
+  li a:active {
+    color: rgb(63, 34, 34);
+  }
+  
+  li a:visited {
+    color: rgb(63, 34, 34);
+  }
+  
+p {
+    font-family: Abel, sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    color: #fff;
+    margin-bottom: 25px;
+    background-image: url("../images/lash1.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 100%;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-family: 'Abel';
+    font-weight: 400;
+    font-size: 2em;
+    transform: translate(-50%, -50%);
+  }
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Abel';
+}
+
+
+.about-us {
+    margin-bottom: 20px;
+    padding: 20px;
+    height: 300px;
+    font-family: 'Abel';
+    background-color: #ffffff;
+    color: #030303;
+    text-align: center;
+}
+
+.services {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Abel';
+    background-color: #ffffff;
+    color: #030303;
+}
+
+.contact-us {
+    margin-bottom: 20px;
+    margin-right: 0px;
+    padding: 50px;
+    height: 300px;
+    font-family: Abel;
+    background-color: #ffffff;
+    color: #030303;
+}
+
+.about-us img {
+    max-height: 200px;
+}
+
+.about-us img {
+    max-height: 200px;
+}
+
+.services img {
+    max-height: 200px;
+}
+
+.about-us h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    text-align: center;
+}
+.services h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    text-align: center;
+}
+
+.contact-us h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+    text-align: center;
+}
+
+form {
+    font-size: 18px;
+}
+
+submit {
+    color: #fff;
+    font-size: 0;
+    width: 135px;
+    height: 60px;
+    border: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Abel';
+    background: rgb(241, 184, 241)t; 
+   }
+
+#fname {
+    font-family: 'Abel';
+    font-size: 17px;
+    padding: 2px;
+}
+#lname {
+    font-family: 'Abel';
+    font-size: 17px;
+    padding: 2px;
+
+}
+li {
+    font-size: 18px;
+}
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: Abel, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
