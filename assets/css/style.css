@@ -198,6 +198,12 @@ submit {
     background: rgb(241, 184, 241)t; 
    }
 
+   text {
+    font-family: 'Abel';
+    font-size 18px;
+    padding: 2px;
+   }
+
 #fname {
     font-family: 'Abel';
     font-size: 17px;
@@ -209,6 +215,7 @@ submit {
     padding: 2px;
 
 }
+
 li {
     font-size: 18px;
 }
