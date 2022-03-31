@@ -1,6 +1,9 @@
 # lashbar
 
-In this mini-project, we will build a landing page using HTML and CSS. 
+In this mini-project, I have built a landing page using HTML and CSS. 
+I decided to go with a Lash Extensions Salon named Chaunette Lash.
+The website is a pink color themed minimalistic design. 
+Typography is extremely important for me and I have also used a chic font named 'Abel' for this website. 
 
 ## Instructions
 
@@ -58,6 +61,21 @@ In this mini-project, we will build a landing page using HTML and CSS.
 
 ![My Image](assets/images/lpage1.png)
 
-## Screenshot of the website
+## Built With
 
-![My Image](assets/images/lpage1.png)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Calendly] (https://calendly.com/chaunettelash)
+
+## Deployed Link
+
+* https://chaunnybby7.github.io/lashbar/
+
+
+## Authors
+
+* **YiLin Ong** 
+
+- [Link to Portfolio Site](https://github.com/chaunnybby7/lashbar)
+- [Link to Github](https://github.com/chaunnybby7)
+- [Link to LinkedIn](https://www.linkedin.com/in/chauntelleong)
