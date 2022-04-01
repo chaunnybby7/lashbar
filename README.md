@@ -45,27 +45,27 @@ Typography is extremely important for me and I have also used a chic font named 
 
 # What have I done on this website:
 
-- Created a landing page called Chaunette Lash Bar.
+Step 1: Created a landing page called Chaunette Lash Bar. 
 
-- There's a header picture that takes up 100% width at the top of the page. 
+Step 2: Used a class named hero on style.css to place background-image at the header of the webpage, instead of using `img` tag to insert image on index.html. 
 
-- There's a short introduction on the page.
+Step 3: Created container using div class to write text(tagline) over the background image. 
 
-- There's a menu of services with pricing information.
+Step 4: Created a content class for body section of the webpage to style the texts.
+There's a short About Us message and menu of services with pricing information. 
 
-- There is a form at the bottom of the page.
+Step 5: There is a contact form at the bottom of the page.
 
-- Customized the form attributes by changing the font family and font size. 
+Step 6: Customized the form attributes by declaring element id on style css, and adding styles like the font family and font size. 
 
-- There are three links on the navigation bar. When user clicks on the tabs, it jumps directly to each section, such as About Us, Services and Contact Us. 
+Step 7: Created link tabs on the navigation bar on the top right hand corner of the webpage.
+When user clicks on any of the tabs, it jumps directly to each section at the body of the webpage, such as About Us, Services and Contact Us. 
 
-- Downloaded 'Abel' font and used it for the body and footer texts.
+Step 8: Downloaded 'Abel' font and linked the stylesheet on index.html file. Used this font for the body and footer texts.
 
-- Inserted and aligned text/slogan over the header photo.
+Step 9: Embedded Calendly application for appointment scheduling. 
 
-- Embedded Calendly for appointment scheduling. 
-
-- Added disclaimer, instructions and pricing info on the Calendly page to inform users of important messages.
+Step 10: Added disclaimer, instructions and pricing info on the Calendly page to inform users of important messages.
 
 
 ## Screenshot of the website 
