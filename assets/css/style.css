@@ -31,7 +31,7 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* navigation and unordered list element */
 nav ul {
     display: flex;
     justify-content: space-between;
@@ -39,7 +39,7 @@ nav ul {
     color: rgb(63, 34, 34);
   }
   
-  nav a {
+  nav a { 
     color: rgb(63, 34, 34);
     font-family: 'Abel';
     font-weight: bold;
@@ -64,12 +64,14 @@ nav ul {
     color: rgb(63, 34, 34);
   }
   
+  /*paragraph style properties */
 p {
     font-family: Abel, sans-serif;
     font-size: 18px;
     line-height: 30px;
 }
 
+/* header section where the picture will be seen */
 .hero {
     height: 800px;
     width: 100%;
@@ -80,29 +82,22 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* The body section will take up 100% width of the webpage, leaving 10px space on the left and right of the body. */ 
 .content {
-    width: 100%;
-    display: inline-block;
+    width: 100%; 
+    display: inline-block; 
     margin-left: 10px;
     margin-right: 10px;
 }
 
+/* container class is created to align the texts in the middle of the header image*/
 .container {
     position: relative;
     text-align: center;
     color: white;
   }
 
+/* this class will help align the texts at the center of the image by adjusting the placement through top and left properties. */
 .centered {
     position: absolute;
     top: 50%;
@@ -112,16 +107,6 @@ p {
     font-size: 2em;
     transform: translate(-50%, -50%);
   }
-
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Abel';
-}
 
 
 .about-us {
@@ -165,7 +150,7 @@ p {
 .services img {
     max-height: 200px;
 }
-
+/* h2 style properties, bigger font size for each section at the body of webpage */
 .about-us h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -182,7 +167,7 @@ p {
     font-size: 36px;
     text-align: center;
 }
-
+/* font size for the form input */
 form {
     font-size: 18px;
 }
@@ -198,7 +183,7 @@ submit {
     font-family: 'Abel';
     background: rgb(241, 184, 241)t; 
    }
-
+/* Style the input text properties for the contact form*/
    text {
     font-family: 'Abel';
     font-size 18px;
@@ -216,10 +201,11 @@ submit {
     padding: 2px;
 
 }
-
+/* Make the list of words larger at the Services menu */
 li {
     font-size: 18px;
 }
+
 .footer {
     padding: 30px;
     clear: both;
@@ -230,3 +216,40 @@ li {
 .footer h2 {
     font-size: 20px;
 }
+
+/* Media Queries that allow webpage to fit smaller screen sizes */ 
+@media screen and (max-width: 991px) {
+    #box section {
+        flex: 0 0 300px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+  }
+  
+  /*If the screen is lesser than 768px, the header and body section will break down vertically, the texts will stack together in multiple lines */
+  @media screen and (max-width: 768px) {   
+    header {
+      flex-direction: column;    
+      justify-content: center;
+    }
+    #box {
+        flex-direction: column;
+    }
+  
+    #box section {
+        flex: 0 0 200px;
+        margin-top: 20px;
+        margin-bottom: 20px;  
+        
+    }
+  
+  
+  
+    main {
+      max-width: 1200px;
+  
+    }
+  
+    
+  
+  

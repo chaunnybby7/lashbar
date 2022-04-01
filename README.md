@@ -46,16 +46,27 @@ Typography is extremely important for me and I have also used a chic font named 
 # What have I done on this website:
 
 - Created a landing page called Chaunette Lash Bar.
+
 - There's a header picture that takes up 100% width at the top of the page. 
+
 - There's a short introduction on the page.
+
 - There's a menu of services with pricing information.
+
 - There is a form at the bottom of the page.
+
 - Customized the form attributes by changing the font family and font size. 
+
 - There are three links on the navigation bar. When user clicks on the tabs, it jumps directly to each section, such as About Us, Services and Contact Us. 
+
 - Downloaded 'Abel' font and used it for the body and footer texts.
+
 - Inserted and aligned text/slogan over the header photo.
+
 - Embedded Calendly for appointment scheduling. 
+
 - Added disclaimer, instructions and pricing info on the Calendly page to inform users of important messages.
+
 
 ## Screenshot of the website 
 
