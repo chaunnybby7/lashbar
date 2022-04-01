@@ -1,8 +1,11 @@
 # lashbar
 
 In this mini-project, I have built a landing page using HTML and CSS. 
+
 I decided to go with a Lash Extensions Salon named Chaunette Lash.
+
 The website is a pink color themed minimalistic design. 
+
 Typography is extremely important for me and I have also used a chic font named 'Abel' for this website. 
 
 ## Instructions
@@ -47,23 +50,23 @@ Typography is extremely important for me and I have also used a chic font named 
 
 Step 1: Created a landing page called Chaunette Lash Bar. 
 
-Step 2: Used a class named hero on style.css to place background-image at the header of the webpage, instead of using `img` tag to insert image on index.html. 
+Step 2: Used a class named hero on style.css to place background-image at the header of the webpage, instead of using `<img>` tag to insert image on index.html. 
 
-Step 3: Created container using div class to write text(tagline) over the background image. 
+Step 3: Created `<div>` `class` container to show text(tagline) over the background image. 
 
-Step 4: Created a content class for body section of the webpage to style the texts.
+Step 4: Created a content `class` for <body> section of the webpage to style the texts.
 There's a short About Us message and menu of services with pricing information. 
 
-Step 5: There is a contact form at the bottom of the page.
+Step 5: There is a contact form at the bottom of the page using HTML `<form>` action tag. The <form> includes <input> elements and types. 
 
-Step 6: Customized the form attributes by declaring element id on style css, and adding styles like the font family and font size. 
+Step 6: Customized the `<form>` attributes by declaring its <element> `id` on style.css, and adding styles like the font family and font size. 
 
-Step 7: Created link tabs on the navigation bar on the top right hand corner of the webpage.
+Step 7: Created link tabs on the `<nav>` navigation bar on the top right hand corner of the webpage.
 When user clicks on any of the tabs, it jumps directly to each section at the body of the webpage, such as About Us, Services and Contact Us. 
 
-Step 8: Downloaded 'Abel' font and linked the stylesheet on index.html file. Used this font for the body and footer texts.
+Step 8: Downloaded 'Abel' font and linked the stylesheet on index.html file. Used this font for the <body> and <footer> texts.
 
-Step 9: Embedded Calendly application for appointment scheduling. 
+Step 9: Embedded `Calendly` application for appointment scheduling. 
 
 Step 10: Added disclaimer, instructions and pricing info on the Calendly page to inform users of important messages.
 
