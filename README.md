@@ -4,7 +4,7 @@ In this mini-project, I have built a landing page using HTML and CSS.
 
 I decided to go with a Lash Extensions Salon named Chaunette Lash.
 
-The website is a pink color themed minimalistic design. 
+The website is a pink color themed and has a minimalistic design. 
 
 I love typography and I used a chic font named 'Abel' for this website. 
 
