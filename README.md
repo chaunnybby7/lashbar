@@ -57,7 +57,7 @@ I love typography and I used a chic font named 'Abel' for this website.
 **Step 4**: Created a content `class` for <body> section of the webpage to style the texts.
 There's a short About Us message and menu of services with pricing information. 
 
-**Step 5**: There is a contact form at the bottom of the page using HTML `<form>` action tag. The <form> includes <input> elements and types. 
+**Step 5**: There is a contact form at the bottom of the page using HTML `<form>` action tag. The `<form>` includes `<input>` elements and types. 
 
 **Step 6**: Customized the `<form>` attributes by declaring its <element> `id` on style.css, and adding styles like the font family and font size. 
 
