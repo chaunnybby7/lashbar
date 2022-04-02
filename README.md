@@ -48,7 +48,7 @@ I love typography and I used a chic font named 'Abel' for this website.
 
 # What have I done on this website:
 
-**Step** 1: Created a landing page called Chaunette Lash Bar. 
+**Step 1** : Created a landing page called Chaunette Lash Bar. 
 
 **Step 2**: Used a class named hero on `style.css` to place <background-image> at the header of the webpage, instead of using `<img>` tag to insert image on `index.html`. 
 
